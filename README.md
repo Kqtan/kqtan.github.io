@@ -1,3 +1,4 @@
 # kqtan.github.io
 
-# DOG heading 1
+### Education
+Actuarial Science, BSc
