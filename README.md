@@ -27,7 +27,7 @@ I'm an Actuarial Science Graduate with a passion for Data Science and Machine Le
 
 ## Contact Me
 
-I'm always open to new opportunities, collaborations, and conversations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kai-qin-tan), or you can reach me via email at [kqtan99@gmail.com].
+I'm always open to new opportunities, collaborations, and conversations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kai-qin-tan), or you can reach me via email at kqtan99@gmail.com.
 
 Thank you for visiting my page, and I look forward to connecting with you!
 
