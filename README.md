@@ -1,5 +1,3 @@
-# Kai Qin TAN (Duncan)
-
 Welcome to my page! Here, you can learn more about my background, job experience, education, and other projects I'm passionate about.
 
 ## About Me
