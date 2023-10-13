@@ -2,7 +2,7 @@ Welcome to my page! Here, you can learn more about my background, job experience
 
 ## About Me
 
-I'm an Actuarial Science Graduate with a passion for Data Science and Machine Learning. I believe in the power of technology and innovation to drive positive change in the world. 
+A highly motivated Actuarial Science graduate seeking a Data Science role. For starters, I am passionate about Data Science and Machine Learning, aiming to contribute my analytical skills to a dynamic team that values innovation. Besides, I am also eager to create value through data-driven insights and continuously evolve in a collaborative environment. Ultimately, I am ready to make a positive impact with my enthusiasm and expertise.
 
 ## Job Experience
 
@@ -22,6 +22,7 @@ I'm an Actuarial Science Graduate with a passion for Data Science and Machine Le
 ## Projects
 
 ### Machine Learning for Email Filtering and Categorising
+- Gold Prize Award for the Final Year Project Competition
 - The project aims to demonstrate the automation pipeline of email filtering and categorising using some machine learning methods available in the market
 - It incorporates filtering, categorising, and summarising email in a single system
 
