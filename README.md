@@ -6,6 +6,9 @@ A highly motivated Actuarial Science graduate seeking a Data Science role. For s
 
 ## Job Experience
 
+### Sun Life Malaysia - Strategic Analyst (Jan 2024 - Present)
+- Working as part of the analysis team to perform business analyses for the end user to make better decisions. Besides, I have conducted sales forecasts to understand the trend while staying on the right track for future sales with 95% accuracy on back-tested data.
+ 
 ### Sun Life Malaysia - Strategic Analytics Intern (Oct 2022 - Jan 2023)
 - I was assigned to the development of the internal-use super apps. Throughout the internship, I worked on the campaign management module, which incorporates the lights of AI. The notion of the module is to allow employees to organise campaigns with a more consistent approach. As the platform collects more data from the users, it is expected that the module could automatically generate the desired campaigns according to the user.
 
@@ -15,7 +18,8 @@ A highly motivated Actuarial Science graduate seeking a Data Science role. For s
 ## Education
 
 ### Universiti Tunku Abdul Rahman (UTAR) - Actuarial Science (2023)
-- CGPA: 3.9677
+- CGPA: 3.9717
+- Top Graduate for March Convocation 2024
 - First Class Honours, President's list, Top Achiever Scholarship Holder
 - The gold prize winner for the FYP Poster competition
 
@@ -30,5 +34,5 @@ A highly motivated Actuarial Science graduate seeking a Data Science role. For s
 
 I'm always open to new opportunities, collaborations, and conversations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kai-qin-tan), or you can reach me via email at kqtan99@gmail.com.
 
-Thank you for visiting my page, and I look forward to connecting with you!
+Thank you for visiting my page, and I look forward to connect with you!
 
