@@ -27,7 +27,7 @@ I am an Actuarial Science graduate currently working as a **Data Scientist**, al
 - Top Graduate for March Convocation 2024
 - First Class Honours, President's list, Top Achiever Scholarship Holder
 - The gold prize winner for the FYP Poster competition
-> My pleasure to show baby boy: <kqtan.github.io/docs/degree_cert.pdf>
+> My pleasure to show baby boy: <https://www.kqtan.github.io/docs/degree_cert.pdf>
 
 ## Projects
 
