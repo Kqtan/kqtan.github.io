@@ -2,12 +2,17 @@ Welcome to my page! Here, you can learn more about my background, job experience
 
 ## About Me
 
-A highly motivated Actuarial Science graduate seeking a Data Science role. For starters, I am passionate about Data Science and Machine Learning, aiming to contribute my analytical skills to a dynamic team that values innovation. Besides, I am also eager to create value through data-driven insights and continuously evolve in a collaborative environment. Ultimately, I am ready to make a positive impact with my enthusiasm and expertise.
+I am an Actuarial Science graduate currently working as a **Data Scientist**, alongside analytics to deliver business insights. Passionate about fintech, I aim to transition into Artificial Intelligence related job, focusing on backend development and stakeholder-driven analyses. With expertise in business analytics, statistical modelling, and machine learning, I thrive in technical-driven and agile environment. Eager to learn and grow, I am ready to apply my business acumen and analytical mindset to create value and make an impact. I am actively looking for the right opportunity to prove my potential and contribute to the fast-paced industry.
 
 ## Job Experience
 
 ### Sun Life Malaysia - Strategic Analyst (Jan 2024 - Present)
-- Working as part of the analysis team to perform business analyses for the end user to make better decisions. Besides, I have conducted sales forecasts to understand the trend while staying on the right track for future sales with 95% accuracy on back-tested data.
+- Spearheaded the integration of Anaconda Python, slashing about RM300k in SAS license fees annually while boosting efficiency with improved architecture, package management, and database connections.
+- Engineered a Python-based OCR system to extract and analyse data, unlocking RM800k in new business opportunities.
+- Achieved a 90% accuracy rate in forecasting sales value using advanced statistical modeling techniques in SAS, driving better business decisions and revenue predictions.
+- Maintained and optimised automated lead generation system, resulting in a more streamlined and effective process for the distribution telemarketing team.
+- Led a comprehensive claim ratio analysis to counter reinsurance price hikes, identifying high-risk client groups and developing strategies projected to reduce the loss ratio by over 10%.
+- Obtained certification on **AWS Technical Essentials** as the stepping stone into cloud infrastructure.
  
 ### Sun Life Malaysia - Strategic Analytics Intern (Oct 2022 - Jan 2023)
 - I was assigned to the development of the internal-use super apps. Throughout the internship, I worked on the campaign management module, which incorporates the lights of AI. The notion of the module is to allow employees to organise campaigns with a more consistent approach. As the platform collects more data from the users, it is expected that the module could automatically generate the desired campaigns according to the user.
@@ -18,12 +23,20 @@ A highly motivated Actuarial Science graduate seeking a Data Science role. For s
 ## Education
 
 ### Universiti Tunku Abdul Rahman (UTAR) - Actuarial Science (2023)
-- CGPA: 3.9717
+- CGPA: 3.97/4.00
 - Top Graduate for March Convocation 2024
 - First Class Honours, President's list, Top Achiever Scholarship Holder
 - The gold prize winner for the FYP Poster competition
+> My pleasure to show baby boy: <kqtan.github.io/docs/degree_cert.pdf>
 
 ## Projects
+
+### Formula One race winner prediction
+- Personal project to discover and explore my potential alongside my interest.
+- Predicting drivers in different categories, such as podiums, points, and the rest with 90 percent accuracies.
+- Wrote my own algorithm to evaluate a driver’s confidence or score for each racetrack based on their historical performances alongside each driver’s personal attributes.
+- Wrote a React-Flask application to deploy the model (PaaS) and display the race calendar and driver details using API.
+- Currently working on a higher-level algorithm to accurately predict the exact position of each race and engineering the CI/CD pipeline for the application.
 
 ### Machine Learning for Email Filtering and Categorising
 - Gold Prize Award for the Final Year Project Competition
