@@ -2,14 +2,14 @@ Welcome to my page! Here, you can learn more about my background, job experience
 
 ## About Me
 
-I am an Actuarial Science graduate currently working as a **Data Scientist**, alongside analytics to deliver business insights. Passionate about fintech, I aim to transition into Artificial Intelligence related job, focusing on backend development and stakeholder-driven analyses. With expertise in business analytics, statistical modelling, and machine learning, I thrive in technical-driven and agile environment. Eager to learn and grow, I am ready to apply my business acumen and analytical mindset to create value and make an impact. I am actively looking for the right opportunity to prove my potential and contribute to the fast-paced industry.
+I am an Actuarial Science graduate currently working as a **Data Scientist**, alongside analytics to deliver business insights. Passionate about fintech, I aim to transition into an Artificial Intelligence-related job, focusing on backend development and stakeholder-driven analyses. With expertise in business analytics, statistical modelling, and machine learning, I thrive in a technical-driven and agile environment. Eager to learn and grow, I am ready to apply my business acumen and analytical mindset to create value and make an impact. I am actively looking for the right opportunity to prove my potential and contribute to the fast-paced industry.
 
 ## Job Experience
 
-### Sun Life Malaysia - Strategic Analyst (Jan 2024 - Present)
+### Sun Life Malaysia - Data Scientist (Jan 2024 - Present)
 - Spearheaded the integration of Anaconda Python, slashing about RM300k in SAS license fees annually while boosting efficiency with improved architecture, package management, and database connections.
 - Engineered a Python-based OCR system to extract and analyse data, unlocking RM800k in new business opportunities.
-- Achieved a 90% accuracy rate in forecasting sales value using advanced statistical modeling techniques in SAS, driving better business decisions and revenue predictions.
+- Achieved a 90% accuracy rate in forecasting sales value using advanced statistical modelling techniques in SAS, driving better business decisions and revenue predictions.
 - Maintained and optimised automated lead generation system, resulting in a more streamlined and effective process for the distribution telemarketing team.
 - Led a comprehensive claim ratio analysis to counter reinsurance price hikes, identifying high-risk client groups and developing strategies projected to reduce the loss ratio by over 10%.
 - Obtained certification on **AWS Technical Essentials** as the stepping stone into cloud infrastructure.
